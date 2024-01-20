@@ -1,0 +1,89 @@
+body{
+    background-color:22A699;
+        text-align: center;
+    }
+.cloud1{
+    position: relative;
+    height: 80px;
+    width: 120px;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.cloud2{
+    height: 80px;
+    width: 120px;
+    margin-left: 800px;
+    margin-top: -40px;
+    margin-bottom: auto;
+}
+.mount{
+    margin-top: -10px;
+    margin-left: 30px;
+    margin-bottom: 0%;
+}
+.bird1{
+    height: 80px;
+    width: 120px;
+    margin-left: 250px;
+    margin-top: -350px;
+}
+h1{
+ margin-top: 10%;
+ margin-bottom: 0;
+ color:#0F1035;
+ font-size: 350%;
+ font-style: italic;
+ font-family:'sacramento',cursive ;
+
+}
+.bird2{
+    height: 80px;
+    width: 120px;
+    margin-left: 1350px;
+    margin-top: -60px;
+    margin-bottom: auto;
+}
+.h2{
+  text-align: center;
+  margin-top: -2%;
+color: #04333f;
+font-family:'montserrat',cursive ;
+font-size: 200%;
+
+}
+.txt{
+  margin-left: 500;
+  margin-top:-200;
+}
+.profile{
+    margin-top: 250px;
+    margin-left: 200;
+}
+.skills{
+  margin-top: 100px;
+  margin-left: 500;
+}
+.skill1{
+  margin-left: 200;
+  margin-top:-200;
+}
+.skill2{
+  margin-top: 40px;
+  margin-left: -250;
+}
+.txt1{
+  margin-left: 50;
+  margin-top:-140;
+}
+.contact-me{
+  margin-top: 50;
+}
+
+@keyframes floatClouds {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(20px); }
+    100% { transform: translateX(0);}
+}
+.java{
+  margin-right: 50px;
+}
